@@ -1,4 +1,6 @@
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   margin: 0;
   padding: 0;
@@ -14,7 +16,7 @@ body {
 }
 
 .bgfundo {
-  background: url(https://placehold.co/1920x1080) no-repeat center/cover;
+  background: url(/img/Batata-Pizza.png) no-repeat center/cover;
 
   /*background-color: blue;
        background-image: url(https://placehold.co/1920x1080);
@@ -144,7 +146,7 @@ header {
   align-items: center;
 
   & h2 {
-    color: #d03012;
+    color: #000000;
     text-transform: uppercase;
     font-size: 28px;
     font-weight: 900;
@@ -190,7 +192,7 @@ header {
 
   & h2 {
     text-transform: uppercase;
-    color: #bf0a26;
+    color: #000000;
     font-size: 28px;
     font-weight: 900;
   }
