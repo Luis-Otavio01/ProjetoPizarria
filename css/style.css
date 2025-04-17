@@ -169,20 +169,20 @@ header {
 
 #btnCardapio {
   text-decoration: none;
-  background: #8daa3e;
-  color: #fff;
+  background: #FFD63A;
+  color: #000000;
   padding: 10px 20px;
   border-radius: 50px;
-  border-bottom: 2px solid #6b7552;
+  border-bottom: 2px solid #FFD63A;
   margin-bottom: 10px;
   transition: all 0.3s;
 }
 #btnCardapio:hover {
-  background: #6b7552;
+  background: #FFA955;
 }
 
 #Delivery {
-  background-color: #ebe7db;
+  background-color: #FFD63A;
   margin: 50px 0;
   display: flex;
   justify-content: center;
@@ -288,9 +288,9 @@ header {
 }
 
 footer {
-  background-color: #e7a200;
+  background-color: #FFD63A;
   margin-top: -145px;
-  color: #fff;
+  color: #000000;
   text-align: center;
   padding-top: 50px;
 }
